@@ -8,7 +8,7 @@ import java.time.LocalDateTime;
 
 
 @Entity
-@Table(name = "java_estacionamento")
+@Table(name = "java_estacionamento2")
 public class ParkingSpotModel implements Serializable {
      private static final long serialVersionUID = 1;
      @Id //primary key
